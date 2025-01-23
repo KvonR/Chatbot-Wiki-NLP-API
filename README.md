@@ -17,7 +17,7 @@ An interactive chatbot built with Python, featuring both a command-line interfac
 
 ### Prerequisites
 
-1. Install Python 3.x on your system.
+1. Python 3
 2. Install the required libraries by running:
 
 ```bash
