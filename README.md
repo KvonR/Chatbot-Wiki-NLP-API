@@ -1,6 +1,6 @@
-# Chatbot Project
+# Old Chatbot Project
 
-An interactive chatbot built with Python, featuring both a command-line interface (CLI) and a graphical user interface (GUI). The chatbot uses Wikipedia to answer questions, logs conversations to a file, and processes natural language with basic NLP techniques.
+An old interactive chatbot built with Python by me a while ago (new one using open ai coming soon), featuring both a command-line interface (CLI) and a graphical user interface (GUI). The chatbot uses Wikipedia to answer questions, logs conversations to a file, and processes natural language with basic NLP techniques.
 
 ---
 
