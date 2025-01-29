@@ -122,4 +122,4 @@ Built with `Tkinter`, the interface provides an easy way to interact with the ch
 
 ## Author
 
-This project demonstrates Python skills in API integration, file handling, and GUI development. It is designed as an excellent starting point for creating more advanced chatbot applications.
+Features: My Python skills, API integration, file handling, and GUI development. It is designed as an excellent starting point for creating more advanced chatbot applications.
